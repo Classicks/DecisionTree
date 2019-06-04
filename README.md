@@ -1,5 +1,3 @@
-# a1_s1h0b
+Simple Machine Learning Program
 
-CPSC 340 a1 for s1h0b.
-
-TODO: improve this README file per the homework instructions.
+Decision Tree and Decision Stump Implementation
